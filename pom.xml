@@ -10,7 +10,7 @@
     <name>Crafter Studio 2.5 Installer builder</name>
     <description>Crafter Studio 2.5 Installer builder</description>
     <properties>
-        <packageVersion>2.5.1-SNAPSHOT</packageVersion>
+        <packageVersion>2.5.1.e-SNAPSHOT</packageVersion>
         <solr.version>4.10.4</solr.version>
     </properties>
     
