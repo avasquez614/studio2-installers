@@ -5,7 +5,7 @@ export CATALINA_PID=./apache-tomcat/temp/catalina.pid
 cd ..
 
 echo "************************************************************"
-echo "Starting deploy agent..."
+echo "Starting publishing receiver..."
 echo "************************************************************"
 cd ./crafter-deployer
 sh ./start-deploy-agent.sh
